@@ -1,0 +1,387 @@
+﻿  main.cpp
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(274): warning C4251: 'AbstractModel::position': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(275): warning C4251: 'AbstractModel::scale': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(276): warning C4251: 'AbstractModel::color': struct 'glm::vec<4,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(419): note: vea la declaración de 'glm::vec<4,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(277): warning C4251: 'AbstractModel::orientation': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(279): warning C4251: 'AbstractModel::vertexArray': class 'std::vector<AbstractModel::Vertex,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+          with
+          [
+              _Ty=AbstractModel::Vertex
+          ]
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(255): note: vea la declaración de 'std::vector<AbstractModel::Vertex,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=AbstractModel::Vertex
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(280): warning C4251: 'AbstractModel::index': class 'std::vector<std::seed_seq::result_type,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\random(261): note: vea la declaración de 'std::vector<std::seed_seq::result_type,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(281): warning C4251: 'AbstractModel::aabb': class 'AbstractModel::AABB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(65): note: vea la declaración de 'AbstractModel::AABB'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(282): warning C4251: 'AbstractModel::sbb': class 'AbstractModel::SBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(51): note: vea la declaración de 'AbstractModel::SBB'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(283): warning C4251: 'AbstractModel::obb': class 'AbstractModel::OBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(94): note: vea la declaración de 'AbstractModel::OBB'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(75): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(76): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(77): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(78): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(79): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(80): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\sphere.h(39): warning C4251: 'Sphere::sbb': class 'AbstractModel::SBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Sphere'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(51): note: vea la declaración de 'AbstractModel::SBB'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\box.h(37): warning C4251: 'Box::aabb': class 'AbstractModel::AABB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Box'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\abstractmodel.h(65): note: vea la declaración de 'AbstractModel::AABB'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\camera.h(130): warning C4251: 'Camera::position': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\camera.h(131): warning C4251: 'Camera::front': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\camera.h(132): warning C4251: 'Camera::up': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\camera.h(133): warning C4251: 'Camera::right': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\camera.h(134): warning C4251: 'Camera::worldUp': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\camera.h(136): warning C4251: 'Camera::cameraTarget': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\texture.h(66): warning C4251: 'Texture::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Texture'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\texture.h(69): warning C4251: 'Texture::type': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Texture'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\bones.h(111): warning C4251: 'Bones::m_BoneMapping': class 'std::map<std::string,unsigned int,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+          with
+          [
+              _Kty=std::string,
+              _Ty=unsigned int
+          ]
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\bones.h(111): note: vea la declaración de 'std::map<std::string,unsigned int,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=std::string,
+              _Ty=unsigned int
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\bones.h(112): warning C4251: 'Bones::m_BoneInfo': class 'std::vector<Bones::BoneInfo,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+          with
+          [
+              _Ty=Bones::BoneInfo
+          ]
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\bones.h(112): note: vea la declaración de 'std::vector<Bones::BoneInfo,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Bones::BoneInfo
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\bones.h(113): warning C4251: 'Bones::bones': class 'std::vector<Bones::VertexBoneData,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+          with
+          [
+              _Ty=Bones::VertexBoneData
+          ]
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\bones.h(113): note: vea la declaración de 'std::vector<Bones::VertexBoneData,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Bones::VertexBoneData
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\mesh.h(54): warning C4251: 'Mesh::textures': class 'std::vector<Texture *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Mesh'
+          with
+          [
+              _Ty=Texture *
+          ]
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\mesh.h(54): note: vea la declaración de 'std::vector<Texture *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Texture *
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\model.h(67): warning C4251: 'Model::meshes': class 'std::vector<Mesh *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+          with
+          [
+              _Ty=Mesh *
+          ]
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\model.h(51): note: vea la declaración de 'std::vector<Mesh *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Mesh *
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\model.h(68): warning C4251: 'Model::textureLoaded': class 'std::vector<Texture *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+          with
+          [
+              _Ty=Texture *
+          ]
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\mesh.h(54): note: vea la declaración de 'std::vector<Texture *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Texture *
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\model.h(69): warning C4251: 'Model::directory': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\model.h(71): warning C4251: 'Model::m_GlobalInverseTransform': struct 'glm::mat<4,4,glm::f32,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(518): note: vea la declaración de 'glm::mat<4,4,glm::f32,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\model.h(73): warning C4251: 'Model::importer': class 'Assimp::Importer' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\assimp\include\assimp\importer.hpp(115): note: vea la declaración de 'Assimp::Importer'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\terrain.h(50): warning C4251: 'Terrain::heightMap': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Terrain'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(57): warning C4273: 'matToString': vinculación de DLL incoherente
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(45): note: vea la definición anterior de 'matToString'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(69): warning C4273: 'appendFrame': vinculación de DLL incoherente
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(46): note: vea la definición anterior de 'appendFrame'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(78): warning C4273: 'appendFrame': vinculación de DLL incoherente
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(48): note: vea la definición anterior de 'appendFrame'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(86): warning C4273: 'getKeyFrames': vinculación de DLL incoherente
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(50): note: vea la definición anterior de 'getKeyFrames'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(112): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(128): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(138): warning C4273: 'getKeyRotFrames': vinculación de DLL incoherente
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(51): note: vea la definición anterior de 'getKeyRotFrames'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(153): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(163): warning C4273: 'interpolate': vinculación de DLL incoherente
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(52): note: vea la definición anterior de 'interpolate'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(184): warning C4273: 'interpolate': vinculación de DLL incoherente
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\animationutils.h(54): note: vea la definición anterior de 'interpolate'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\colisiones.h(133): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\shadowbox.h(40): warning C4251: 'ShadowBox::front': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\shadowbox.h(41): warning C4251: 'ShadowBox::up': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\shadowbox.h(42): warning C4251: 'ShadowBox::right': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\shadowbox.h(43): warning C4251: 'ShadowBox::mins': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\cgalib\include\headers\shadowbox.h(44): warning C4251: 'ShadowBox::maxs': struct 'glm::vec<3,float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+  c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\external\glm\glm\fwd.hpp(418): note: vea la declaración de 'glm::vec<3,float,0>'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(126): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(251): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(252): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(253): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(254): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(255): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(263): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(265): warning C4305: 'inicializando': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(273): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(276): warning C4305: 'inicializando': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(283): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(286): warning C4305: 'inicializando': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(314): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(315): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(333): warning C4305: 'inicializando': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(337): warning C4305: 'inicializando': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(353): warning C4305: 'inicializando': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(385): warning C4305: 'inicializando': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(427): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(449): warning C4305: 'inicializando': truncamiento de 'double' a 'ALfloat'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(452): warning C4305: 'inicializando': truncamiento de 'double' a 'ALfloat'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(455): warning C4305: 'inicializando': truncamiento de 'double' a 'ALfloat'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(458): warning C4305: 'inicializando': truncamiento de 'double' a 'ALfloat'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(461): warning C4305: 'inicializando': truncamiento de 'double' a 'ALfloat'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(463): warning C4305: 'inicializando': truncamiento de 'double' a 'ALfloat'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(466): warning C4305: 'inicializando': truncamiento de 'double' a 'ALfloat'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1020): warning C4244: 'argumento': conversión de 'double' a 'unsigned int'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1030): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1031): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1034): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1035): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1044): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1139): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1140): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1142): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1143): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1204): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1354): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1367): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1380): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1393): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1406): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1419): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1543): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1544): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1545): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1546): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1550): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1583): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1583): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1585): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1585): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1586): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1591): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1591): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1592): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1592): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1595): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1597): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1599): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1601): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1603): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1605): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1790): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1833): warning C4305: '+=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1859): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1860): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1861): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1929): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1930): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1932): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1937): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1940): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1947): warning C4305: '+=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(1953): warning C4305: '-=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2112): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2160): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2434): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2442): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2450): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2458): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2466): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2474): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2484): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2504): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2512): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2518): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2524): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2530): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2536): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2544): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2546): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2551): warning C4018: '<': no coinciden signed/unsigned
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2555): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2624): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2625): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2640): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2641): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2655): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2656): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2736): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\galva\documents\peaceful hill\computaciongraficaavanzada\gbr_pfinal\main.cpp(2737): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+     Creando biblioteca C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\GBR_PFinal.lib y objeto C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\GBR_PFinal.exp
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  1954 of 1973 functions (99.0%) were compiled, the rest were copied from previous compilation.
+    171 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_tls.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_tls.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  GBR_PFinal.vcxproj -> C:\Users\galva\Documents\peaceful hill\ComputacionGraficaAvanzada\Release\GBR_PFinal.exe
